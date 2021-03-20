@@ -5,7 +5,7 @@ Created this simple app as a template for future projects. Standard scrollable f
 
 <br/>
 
-<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/React_native_images/TeslaScreenshot.png" width="100"/>&nbsp;&nbsp;
+<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/React_native_images/TeslaScreenshot.png" width="400"/>&nbsp;&nbsp;
 
 
 
